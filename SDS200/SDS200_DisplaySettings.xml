@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UndienScanner Model="SDS100" FileType="DisplayCustomizer">
     <Screen Name="SimpleConventional">
-        <Item Name="Func" Text="ffffff" Back="000000" />
+        <Item Name="Func" Text="000000" Back="efffff" />
         <Item Name="Option_1" Option="ATT" Text="ffffff" Back="000000" />
         <Item Name="Option_2" Option="Empty" Text="ffffff" Back="000000" />
         <Item Name="Option_3" Option="Day" Text="ffffff" Back="000000" />
@@ -15,13 +15,13 @@
         <Item Name="Option_8" Option="TdmaSlot" Text="ffffff" Back="000000" />
         <Item Name="key" Text="ffffff" Back="000000" />
         <Item Name="Dir" Text="ffffff" Back="000000" />
-        <Item Name="System Name" Text="ff4600" Back="000000" />
-        <Item Name="System option" Option="FL_Name" Text="ff4600" Back="000000" />
-        <Item Name="Avoid" Text="ff4600" Back="000000" />
-        <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="Empty" Text="ff8800" Back="000000" />
-        <Item Name="Avoid" Text="ff8800" Back="000000" />
-        <Item Name="Channel Name" Text="ffd600" Back="000000" />
+        <Item Name="System Name" Text="000000" Back="ff0000" />
+        <Item Name="System option" Option="FL_Name" Text="000000" Back="7bffce" />
+        <Item Name="Avoid" Text="000000" Back="7bffce" />
+        <Item Name="Department Name" Text="000000" Back="ffff00" />
+        <Item Name="Department option" Option="Empty" Text="000000" Back="7bffce" />
+        <Item Name="Avoid" Text="000000" Back="7bffce" />
+        <Item Name="Channel Name" Text="000000" Back="00ff00" />
         <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
         <Item Name="Option A" Option="ServiceType" Text="e79473" Back="000000" />
@@ -43,7 +43,7 @@
         <Item Name="Soft3 Key" Text="ffffff" Back="000000" />
     </Screen>
     <Screen Name="SimpleTrunk">
-        <Item Name="Func" Text="ffffff" Back="000000" />
+        <Item Name="Func" Text="000000" Back="efffff" />
         <Item Name="Option_1" Option="ATT" Text="ffffff" Back="000000" />
         <Item Name="Option_2" Option="Empty" Text="ffffff" Back="000000" />
         <Item Name="Option_3" Option="Day" Text="ffffff" Back="000000" />
@@ -57,14 +57,14 @@
         <Item Name="Option_8" Option="TdmaSlot" Text="ffffff" Back="000000" />
         <Item Name="key" Text="ffffff" Back="000000" />
         <Item Name="Dir" Text="ffffff" Back="000000" />
-        <Item Name="System Name" Text="ff4600" Back="000000" />
-        <Item Name="System option" Option="FL_Name" Text="ff4600" Back="000000" />
-        <Item Name="Avoid" Text="ff4600" Back="000000" />
-        <Item Name="Department Name" Text="ff8800" Back="000000" />
-        <Item Name="Department option" Option="SiteName" Text="ff8800" Back="000000" />
-        <Item Name="Avoid" Text="ff8800" Back="000000" />
-        <Item Name="Channel Name" Text="ffd600" Back="000000" />
-        <Item Name="Channel option" Option="TGID" Text="ffd600" Back="000000" />
+        <Item Name="System Name" Text="000000" Back="ff0000" />
+        <Item Name="System option" Option="FL_Name" Text="000000" Back="7bffce" />
+        <Item Name="Avoid" Text="000000" Back="7bffce" />
+        <Item Name="Department Name" Text="000000" Back="ffff00" />
+        <Item Name="Department option" Option="Empty" Text="000000" Back="7bffce" />
+        <Item Name="Avoid" Text="000000" Back="7bffce" />
+        <Item Name="Channel Name" Text="000000" Back="00ff00" />
+        <Item Name="Channel option" Option="Frequency" Text="ffd600" Back="000000" />
         <Item Name="Avoid" Text="ffd600" Back="000000" />
         <Item Name="Option A" Option="ServiceType" Text="e79473" Back="000000" />
         <Item Name="Option B" Option="CTCSS/DCS" Text="e79473" Back="000000" />
